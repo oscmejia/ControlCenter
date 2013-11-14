@@ -1,4 +1,4 @@
 good-code
 =========
 
-Code Quality Tool
+Code Quality Tool powered by Grails
